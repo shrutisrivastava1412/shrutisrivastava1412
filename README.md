@@ -1,17 +1,1 @@
-
-Hello , 
-
-I am currently a fourth year undergraduate student studying Computer Science and Engineering. I am writing to apply for the Software Developer / Front-end Developer. 
-
-I am excited about the field of Computer Science and Engineering and would welcome the opportunity to bring my skills and experience to your growing team.
-
-I had a substantial experience identifying and fixing bugs, as well as coding in C/C++ and JavaScript. I also utilized NodeJS, ReactJS, Express, NodeJS to create responsive 
-
-Web Pages along with HTML / CSS and JavaScript. I also have a good understanding of Git and Github.I would very much enjoy the opportunity to use my knowledge of 
-
-computer programming in the field. I am confident that my skills will prove an asset to your organization and immediate value to your organization.For your convenience, 
-
-please check my resume that further outlines my relevant skill set, accomplishment, and experience. Thank you for your consideration, and I look forward to hearing from you soon.
-
-Sincerely,
-SHRUTI
+Experienced QA Engineer with a demonstrated history of working in the information technology and services industry. Skilled in quality assurance, automation, and security testing methodologies. Proficient in industry-standard tools such as Burp Suite, Qualys, Nmap, Robot Framework, JMeter, and Postman. Experienced in infrastructure and application penetration testing, automated web API testing framework development, and continuous integration/continuous deployment (CI/CD) pipeline implementation. Strong background in Git, GitHub, Jenkins, Azure DevOps, networking, MySQL, MongoDB, OOPs, SDLC, and problem-solving. Passionate about ensuring software reliability and security through meticulous testing practices.
